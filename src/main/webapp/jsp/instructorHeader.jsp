@@ -63,6 +63,7 @@
                                 <%=PageData.truncate(data.account.googleId,Const.SystemParams.USER_ID_MAX_DISPLAY_LENGTH)%>
                          </span>)
                         <%} %>
+                        <span class="glyphicon glyphicon-off"></span>
                     </a>
                 </li>
             </ul>            
